@@ -3,7 +3,7 @@ Context-sensitive dictionary lookups
 
 A small demo of a dictionary that takes information about the surrounding sentence into account. For example:
 
-```shell
+```sh
 >>> from api import best_definitions
 >>> results = best_definitions(u"I ***refuse*** to accept refuse.")
 >>> for result in results:
