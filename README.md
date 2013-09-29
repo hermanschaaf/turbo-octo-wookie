@@ -1,7 +1,7 @@
 Context-sensitive dictionary lookups
 =================
 
-A small demo of a dictionary that takes information about the surround sentence into account. For example:
+A small demo of a dictionary that takes information about the surrounding sentence into account. For example:
 
 ```shell
 >>> from api import best_definitions
