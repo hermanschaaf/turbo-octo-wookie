@@ -28,5 +28,6 @@ In the above examples, results are returned based on the two different senses of
 
 But mostly this is a playground for toying with all the awesome capabilities of NLTK, the Python Natural Language Toolkit.
 
-Author: Herman Schaaf [IronZebra](http://www.ironzebra.com)
+Author: Herman Schaaf ([IronZebra](http://www.ironzebra.com))
+
 License: MIT License
